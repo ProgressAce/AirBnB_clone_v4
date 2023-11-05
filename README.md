@@ -8,6 +8,9 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * Update attributes of an object
 * Destroy an object
 
+# AirBnB clone - Web dynamic
+The sixth and final part of the basic AirBnB Clone project at Holberton School. At this phase of the project, the RESTful API of the fifth phase will be used to load objects from the client side.
+
 ## Table of Content
 * [Environment](#environment)
 * [Installation](#installation)
